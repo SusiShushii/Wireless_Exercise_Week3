@@ -25,7 +25,7 @@ class Content extends StatelessWidget {
     return Column(
       children: [
         Counter('6488092'),
-        Counter('Thanaphat Sumrit'),
+        Counter('Thanaphat Sumrith'),
         Counter('Sambaitao'),
         Counter('6488058 6488087 6488092'),
       ],
